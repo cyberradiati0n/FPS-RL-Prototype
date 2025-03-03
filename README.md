@@ -1,0 +1,1 @@
+Hey, this is a project started in 2025 by a couple of friends. We are developing a roguelike FPS game. Please be very careful with the files, and we look forward to getting this in the hands of players as soon as possible!
